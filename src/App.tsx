@@ -71,8 +71,8 @@ const App = () => {
         </div>
         }
       </div>
-      <footer>Feito por Eduardo Rodrigues &copy; todos os direitos reservados - 2022</footer>
     </div>
+    <footer>Feito por Eduardo Rodrigues &copy; todos os direitos reservados - 2022</footer>
   </div>);
 }
 

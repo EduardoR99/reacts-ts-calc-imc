@@ -25,12 +25,12 @@ header .headerContainer{
 .container .leftSide h1{
     margin: 0;
     font-size: 40px;
-    color: #3a4b5c;
+    color: #fff;
 }
 .container .leftSide p{
     font-size: 16px;
     margin-bottom: 40px;
-    color: #6a7d8b;
+    color: #fff;
 }
 .container .leftSide input{
     width: 100%;
@@ -56,7 +56,7 @@ header .headerContainer{
     cursor: pointer;
     margin-top: 40px;
     transform: all ease .2s;
-    color: #3a4b5c;
+    color: #fff;
     font-weight: bold;
 }
 .container .leftSide button:hover{
@@ -102,6 +102,9 @@ footer{
     color:#fff;
     padding-top: 35px;
     margin: auto;
+    margin-top: 60px;
+    text-align: center;
+    margin-top: 100px;
 }
 
 @media (max-width: 770px){
