@@ -1,13 +1,20 @@
-# Calculadora de IMC
+# React-IMC-Calculator
 
-Projeto feito inteiramente em React + Typescript, objetivando fazer uma calculadora de IMC
+this project was made entirely with React JS framework, Typescript and Module css, with the objective to made a IMC Calculator.
 
-Projeto desenvolvido e aprimorado durante o curso de React [B7web](https://b7web.com.br).
+[Click Here](https://react-imc-calc.netlify.app) to go
+
+![App Images](/src/assets/1.png) 
 
 
 
 
-### Instalação
+
+
+
+
+
+### To Install
 
 - `npm install`
 
