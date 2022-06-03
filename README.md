@@ -18,5 +18,5 @@ this project was made entirely with React JS framework, Typescript and Module cs
 
 - `npm install`
 
-### Para rodar 
+### To Run 
 - `npm run start`
